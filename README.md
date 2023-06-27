@@ -8,8 +8,8 @@ Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University
 </h5>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanidhya-soni&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&card_width=350" alt="sanidhya-soni" />
-<img src="https://streak-stats.demolab.com?user=sanidhya-soni&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=350" alt="sanidhya-soni" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-soni&theme=highcontrast&show_icons=true&hide_border=true&card_width=350" alt="sanidhya-soni" />
+<img src="https://streak-stats.demolab.com?user=sanidhya-soni&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="sanidhya-soni" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-soni&theme=highcontrast&show_icons=true&hide_border=true&card_width=500" alt="sanidhya-soni" />
 </p>
 <p>
 
