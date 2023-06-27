@@ -7,6 +7,9 @@
 Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University of Petroleum and Energy Studies. I’m passionate about Software Development, Cloud and DevOps. Along with my grad studies, I’ve been working as a Web Developer Intern at BMC Softwares, a MNC kown for Mainframe Technology.
 </h3>
 
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhya-soni&label=Profile%20views&color=fb8c00&style=flat" alt="sanidhya-soni" /> </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanidhya-soni&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&card_width=350" alt="sanidhya-soni" />
