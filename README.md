@@ -16,7 +16,12 @@ Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University
 <img src="https://streak-stats.demolab.com?user=sanidhya-soni&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="sanidhya-soni" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya-soni&theme=highcontrast&show_icons=true&hide_border=true&card_width=500" alt="sanidhya-soni" /> -->
 </p>
-<p>
+
+<br>
+
+<p align="left"> <a href="https://twitter.com/isanidhya_soni_" target="blank"><img src="https://img.shields.io/twitter/follow/isanidhya_soni_?logo=twitter&style=for-the-badge" alt="isanidhya_soni_" /></a> </p>
+
+- 📫 How to reach me **sanidhya0601@gmail.com**
 
 <p align="center">
   <img src="https://github.com/sanidhya-soni/sanidhya-soni/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
