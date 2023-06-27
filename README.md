@@ -4,7 +4,7 @@
          width="45" />, I'm Sanidhya Soni</h1>
 
 <h3 align="center">
-Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University of Petroleum and Energy Studies. I’m passionate about Software Development, Cloud and DevOps. Along with my grad studies, I’ve been working as a Web Developer Intern at BMC Softwares, a MNC kown for Mainframe Technology.
+Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University of Petroleum and Energy Studies. I’m passionate about Software Development, Cloud and DevOps. Along with my grad studies, I’ve been working as a Web Developer Intern at BMC Softwares, a MNC known for Mainframe Technology.
 </h3>
 
 <br>
