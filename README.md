@@ -37,6 +37,6 @@ Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University
 
 - 📫 Reach me at **sanidhya0601@gmail.com**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sanidhya-soni/sanidhya-soni/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
