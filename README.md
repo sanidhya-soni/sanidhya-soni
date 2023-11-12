@@ -8,7 +8,6 @@ Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University
 </h3>
 
 <br>
-<a href="https://sanidhya-soni.netlify.app/#home">Portfolio</a>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhya-soni&label=Profile%20views&color=fb8c00&style=flat" alt="sanidhya-soni" /> </p>
@@ -37,6 +36,7 @@ Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University
 <br>
 
 - 📫 Reach me at **sanidhya0601@gmail.com**
+- 📫 Portfolio <a href="https://sanidhya-soni.netlify.app">Click Here</a>
 
 <!-- <p align="center">
   <img src="https://github.com/sanidhya-soni/sanidhya-soni/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
