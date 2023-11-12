@@ -8,6 +8,7 @@ Hey 👋, I’m Sanidhya, a B.Tech in Computer Science student at the University
 </h3>
 
 <br>
+<a href="https://sanidhya-soni.netlify.app/#home">Portfolio</a>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhya-soni&label=Profile%20views&color=fb8c00&style=flat" alt="sanidhya-soni" /> </p>
